@@ -1,0 +1,6 @@
+{
+  "name": "Drive 🎵💾",
+  "description": "Top overlay button to log and save active media image and full title data in a single click while driving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
