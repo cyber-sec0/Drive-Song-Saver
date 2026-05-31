@@ -3,6 +3,12 @@ Never lose track of that amazing new song you discovered while driving. Whether 
 
 This app acts as your temporary staging ground, allowing you to quickly store new and amazing songs that you're listening to safely on the road so you can manually review, share, or add them to your favorite music platforms later when you are safely parked.
 
+<p>
+  <img align="left" width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/eb9fd15d-3849-4930-a6e6-7c4be8000f38" />
+  <img align="right" width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/ae271b03-f8cb-4973-8eea-0c4c3d77b9b8" />
+</p>
+<br clear="both" />
+
 ## Core Features
 
 ### One-Click Overlay Logging
